@@ -1,0 +1,27 @@
+body{
+    font-family: 'Itim', cursive;
+}
+h1{
+    text-align: right;
+    font-size: 40px;
+    text-transform: uppercase;
+    padding: 10px;
+    margin: 10px;
+}
+.p1{
+    color: gray;
+    background: #ffeaa7;
+    border: solid 2px;
+    padding: 10px;
+    margin: 10px;
+}
+.p2{
+    color: gray;
+    background: #ffeaa7;
+    border: solid 2px;
+    padding: 10px;
+    margin: 10px;
+}
+span{
+    color: #000;
+}
